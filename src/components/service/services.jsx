@@ -7,7 +7,7 @@ function Services() {
       <h3>Services</h3>
       <div>
       <div>
-          <h4>Technos</h4>
+          <h4>Roofing</h4>
           <p>Techno stuff Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos laudantium vel reprehenderit, modi cupiditate necessitatibus temporibus quae nesciunt dolorum voluptas harum qui, tempora quibusdam ullam ipsam, nulla alias maiores beatae?</p>
         </div>
         <div>

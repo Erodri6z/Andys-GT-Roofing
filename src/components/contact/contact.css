@@ -1,0 +1,7 @@
+.contact-container{
+  display: flex
+}
+
+.contact-info{
+  width: 50%;
+}
