@@ -1,5 +1,6 @@
 import Nav from './components/nav/nav'
 import Landing from './components/landing/landing'
+import Services from './components/service/services'
 import Footer from './components/footer/footer'
 
 // import './App.css'
@@ -10,6 +11,7 @@ function App() {
     <>
     <Nav />
     <Landing />
+    <Services />
     <Footer />
     </>
   )
