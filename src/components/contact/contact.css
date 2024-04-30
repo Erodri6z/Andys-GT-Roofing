@@ -1,7 +1,16 @@
 .contact-container{
-  display: flex
+  display: flex;
+  height: 30rem
 }
 
 .contact-info{
   width: 50%;
+}
+
+.map{
+  width: 50%;
+}
+.google-map{
+  width: 99%;
+  height: 100%;
 }

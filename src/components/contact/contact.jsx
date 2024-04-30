@@ -8,7 +8,6 @@ function Contact() {
       <div className="contact-container">
 
       <div className="contact-info">
-        <h4>Contact us</h4>
         <p>Phone : ????????</p>
       </div>
 
