@@ -1,13 +1,13 @@
-
+import './nav.css'
 
 function Nav () {
   return (
     <>
-    <ul>
-      <li>Home</li>
-      <li>Services</li>
-      <li>Contact</li>
-    </ul>
+    <nav className='nav-bar'>
+      <li className='nav'>Home</li>
+      <li className='nav'>Services</li>
+      <li className='nav'>Contact</li>
+    </nav>
     </>
   )
 }

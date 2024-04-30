@@ -1,0 +1,12 @@
+.nav-bar{
+  display: flex;
+  justify-content: space-evenly;
+  height: 2rem;
+  padding: 10px;
+  border: 2px solid white;
+}
+
+.nav{
+  list-style: none;
+  padding: 2px;
+}
