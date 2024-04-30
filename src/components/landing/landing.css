@@ -1,0 +1,9 @@
+.landing{
+  height: 100vh;
+  text-align: center;
+  border: 1px solid blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
