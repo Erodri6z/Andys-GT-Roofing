@@ -1,7 +1,10 @@
 .nav-bar{
+  position: fixed;
   display: flex;
   justify-content: space-evenly;
+  background-color: grey;
   height: 2rem;
+  width: 97.3vw;
   padding: 10px;
   border: 2px solid white;
 }
