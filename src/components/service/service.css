@@ -3,3 +3,20 @@
   height: 100vh;
   margin-top: -20px;
 }
+
+.services-title{
+  text-align: center;
+  padding: 20px;
+}
+
+.services-container{
+  display: flex;
+}
+
+.service-div{
+  border: 2px solid red;
+  padding: 40px;
+  margin: 0 1rem;
+  height: 50vh;
+  border-radius: 2%;
+}
