@@ -1,9 +1,9 @@
-
+import "./service.css"
 
 function Services() {
   return (
     <>
-    <div>
+    <div className="service">
       <h3>Services</h3>
       <div>
       <div>
