@@ -1,5 +1,9 @@
 import "./service.css"
 import roofing from "../../assets/Roofing.webp"
+import sidings from "../../assets/Siding.webp"
+import windows from "../../assets/Windows.webp"
+import others from "../../assets/GenCon.webp"
+
 
 function Services() {
   
@@ -12,15 +16,15 @@ function Services() {
           <h4>Roofing</h4>
           <p>Techno stuff Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos laudantium vel reprehenderit, modi cupiditate necessitatibus temporibus quae nesciunt dolorum voluptas harum qui, tempora quibusdam ullam ipsam, nulla alias maiores beatae?</p>
         </div>
-        <div className="service-div">
+        <div className="service-div" style={{backgroundImage: `url(${sidings})`}}>
           <h4>Sidings</h4>
           <p>Techno stuff Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos laudantium vel reprehenderit, modi cupiditate necessitatibus temporibus quae nesciunt dolorum voluptas harum qui, tempora quibusdam ullam ipsam, nulla alias maiores beatae?</p>
         </div>
-        <div className="service-div">
+        <div className="service-div" style={{backgroundImage: `url(${windows})`}}>
           <h4>Windows</h4>
           <p>Techno stuff Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos laudantium vel reprehenderit, modi cupiditate necessitatibus temporibus quae nesciunt dolorum voluptas harum qui, tempora quibusdam ullam ipsam, nulla alias maiores beatae?</p>
         </div>
-        <div className="service-div">
+        <div className="service-div" style={{backgroundImage: `url(${others})`}}>
           <h4>And Much More</h4>
           <p>Techno stuff Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos laudantium vel reprehenderit, modi cupiditate necessitatibus temporibus quae nesciunt dolorum voluptas harum qui, tempora quibusdam ullam ipsam, nulla alias maiores beatae?</p>
         </div>
