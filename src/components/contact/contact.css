@@ -3,6 +3,11 @@
   height: 30rem
 }
 
+.contact-div{
+  text-align: center;
+  height: 100vh;
+}
+
 .contact-info{
   width: 50%;
 }
