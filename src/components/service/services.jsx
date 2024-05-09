@@ -19,16 +19,22 @@ function Services() {
           </div>
         </div>
         <div className="service-div" style={{backgroundImage: `url(${sidings})`, backgroundPositionX: "center", backgroundSize: "cover" }}>
-          <h4>Sidings</h4>
-          <p>Techno stuff Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos laudantium vel reprehenderit, modi cupiditate necessitatibus temporibus quae nesciunt dolorum voluptas harum qui, tempora quibusdam ullam ipsam, nulla alias maiores beatae?</p>
-        </div>
+          <div className="text">
+            <h4>Sidings</h4>
+            <p>Techno stuff Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos laudantium vel reprehenderit, modi cupiditate necessitatibus temporibus quae nesciunt dolorum voluptas harum qui, tempora quibusdam ullam ipsam, nulla alias maiores beatae?</p>
+          </div>
+        </div>        
         <div className="service-div" style={{backgroundImage: `url(${windows})`, backgroundPositionX: "center", backgroundSize: "cover" }}>
-          <h4>Windows</h4>
-          <p>Techno stuff Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos laudantium vel reprehenderit, modi cupiditate necessitatibus temporibus quae nesciunt dolorum voluptas harum qui, tempora quibusdam ullam ipsam, nulla alias maiores beatae?</p>
-        </div>
+          <div className="text">
+            <h4>Windows</h4>
+            <p>Techno stuff Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos laudantium vel reprehenderit, modi cupiditate necessitatibus temporibus quae nesciunt dolorum voluptas harum qui, tempora quibusdam ullam ipsam, nulla alias maiores beatae?</p>
+          </div>
+        </div>        
         <div className="service-div" style={{backgroundImage: `url(${others})`, backgroundPositionX: "center", backgroundSize: "cover" }}>
-          <h4>And Much More</h4>
-          <p>Techno stuff Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos laudantium vel reprehenderit, modi cupiditate necessitatibus temporibus quae nesciunt dolorum voluptas harum qui, tempora quibusdam ullam ipsam, nulla alias maiores beatae?</p>
+          <div className="text">
+            <h4>And So Much More</h4>
+            <p>Techno stuff Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dignissimos laudantium vel reprehenderit, modi cupiditate necessitatibus temporibus quae nesciunt dolorum voluptas harum qui, tempora quibusdam ullam ipsam, nulla alias maiores beatae?</p>
+          </div>
         </div>
       </div>
     </div>
