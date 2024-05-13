@@ -10,6 +10,7 @@
 
 .andy{
   font-size: 70px;
-  -webkit-text-stroke-color: orangered;
-  -webkit-text-stroke-width: 2px;
+  font-weight: 900;
+  -webkit-text-stroke-color: rgb(193, 52, 1);
+  -webkit-text-stroke-width: 3px;
 }

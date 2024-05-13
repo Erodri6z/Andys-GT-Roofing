@@ -4,7 +4,7 @@ function Landing() {
   return (
     <>
     <div className="landing">
-      <h1 className='andy'>Andy's GT Roofing</h1>
+      <h1 className='andy'>ANDY'S GT ROOFING</h1>
     </div>
     </>
   )
