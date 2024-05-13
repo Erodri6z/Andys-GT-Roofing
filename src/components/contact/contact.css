@@ -13,7 +13,8 @@
 }
 
 .map{
-  width: 50%;
+  width: 50vw;
+  height: 90vh;
 }
 .google-map{
   width: 99%;
