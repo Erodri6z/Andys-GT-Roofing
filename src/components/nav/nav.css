@@ -4,9 +4,9 @@
   justify-content: space-evenly;
   background-color: grey;
   height: 2rem;
-  width: 97.3vw;
+  width: 100vw;
   padding: 10px;
-  border: 2px solid white;
+  /* border: 2px solid white; */
   z-index: 99;
 }
 
